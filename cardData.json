@@ -1,0 +1,74 @@
+[
+    {
+        "image": "https://i.ibb.co/6rCNyq8/apartment.jpg",
+        "title": "Smartphone X",
+        "category": "Electronics",
+        "price": 599.99
+    },
+    {
+        "image": "https://i.ibb.co/2YNgy7F/master-bedroom-interior-design-bd.jpg",
+        "title": "Men's Leather Jacket",
+        "category": "Clothing",
+        "price": 149.99
+    },
+    {
+        "image": "https://i.ibb.co/5jy9XQ3/1542613324-BR0-Lf.jpg",
+        "title": "Kitchen Mixer",
+        "category": "Home & Kitchen",
+        "price": 129.99
+    },
+    {
+        "image": "https://i.ibb.co/Xj4753g/5.jpg",
+        "title": "The Great Gatsby",
+        "category": "Books",
+        "price": 12.99
+    },
+    {
+        "image": "https://i.ibb.co/5jy9XQ3/1542613324-BR0-Lf.jpg",
+        "title": "LEGO Star Wars Millennium Falcon",
+        "category": "Toys & Games",
+        "price": 159.99
+    },
+    {
+        "image": "https://example.com/product6.jpg",
+        "title": "Outdoor Camping Tent",
+        "category": "Sports & Outdoors",
+        "price": 199.99
+    },
+    {
+        "image": "https://example.com/product7.jpg",
+        "title": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 79.99
+      },
+      {
+        "image": "https://example.com/product8.jpg",
+        "title": "Women's Floral Dress",
+        "category": "Clothing",
+        "price": 59.99
+      },
+      {
+        "image": "https://example.com/product9.jpg",
+        "title": "Stainless Steel Cookware Set",
+        "category": "Home & Kitchen",
+        "price": 199.99
+      },
+      {
+        "image": "https://example.com/product10.jpg",
+        "title": "The Catcher in the Rye",
+        "category": "Books",
+        "price": 9.99
+      },
+      {
+        "image": "https://example.com/product11.jpg",
+        "title": "Remote Control Car",
+        "category": "Toys & Games",
+        "price": 49.99
+      },
+      {
+        "image": "https://example.com/product12.jpg",
+        "title": "Yoga Mat",
+        "category": "Sports & Outdoors",
+        "price": 29.99
+      }
+]

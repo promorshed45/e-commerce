@@ -1,21 +1,20 @@
-import Footer from "./component/Footer"
-import Menu from "./component/Menu"
-import NavBar from "./component/NavBar"
+import Banner from "./component/ui/Banner"
 import Card from "./component/ui/Card"
 
 function App() {
 
   return (
-    <>
-      <NavBar/>
-      <Menu/>
-        <div className="px-10 md:px-20 py-10">
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-10">
-              <Card/>
-            </div>
+    <div>
+      <div className="flex className='">
+        <div className="px-20 py-10 w-3/4 ">
+            <Banner/>
         </div>
-      <Footer/>
-    </>
+        <div className="bg-green-500 w-full h-full">
+
+        </div>
+      </div>
+      <Card/>
+    </div>
   )
 }
 
