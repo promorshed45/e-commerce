@@ -13,10 +13,10 @@ const Footer = () => {
                     <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
                         <div>
                             <div className="flex justify-center text-rose-600 sm:justify-start dark:text-teal-300">
-                            <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
-                        <img src={logo} className="h-8" alt="Flowbite Logo"/>
-                            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">E-Comerce</span>
-                    </a>
+                                <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
+                                    <img src={logo} className="h-8" alt="Flowbite Logo" />
+                                    <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">E-Comerce</span>
+                                </a>
                             </div>
 
                             <p
@@ -129,8 +129,8 @@ const Footer = () => {
                                             className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
                                             href="#"
                                         >
-                                           <LuMail className='text-rose-500 text-xl' />
-            
+                                            <LuMail className='text-rose-500 text-xl' />
+
 
                                             <span className="flex-1 pl-3 text-gray-300"> john@doe.com </span>
                                         </a>
@@ -141,7 +141,7 @@ const Footer = () => {
                                             className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
                                             href="#"
                                         >
-                                           <LuPhone className='text-rose-500 text-xl'/>
+                                            <LuPhone className='text-rose-500 text-xl' />
 
 
                                             <span className="flex-1 pl-3 text-gray-300">0123456789</span>
@@ -151,8 +151,8 @@ const Footer = () => {
                                     <li
                                         className="flex items-start justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
                                     >
-                                        
-                                        <SlLocationPin  className='text-rose-500 text-xl'/>
+
+                                        <SlLocationPin className='text-rose-500 text-xl' />
 
                                         <address className="-mt-0.5 flex-1 pl-3 not-italic text-gray-300">
                                             213 Lane, London, United Kingdom
@@ -192,7 +192,7 @@ const Footer = () => {
                                         </a>
                                     </li>
 
-                                
+
                                 </ul>
                             </div>
 
@@ -242,7 +242,6 @@ const Footer = () => {
                                     Privacy Policy
                                 </a>
                             </p>
-
                             <p className="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0 dark:text-gray-400">
                                 &copy; 2022 Company Name
                             </p>

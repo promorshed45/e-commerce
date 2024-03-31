@@ -13,7 +13,7 @@ const Shop = () => {
                             className="absolute end-4 top-4 z-10 rounded-full bg-white p-1.5 text-gray-900 transition hover:text-gray-900/75"
                         >
                             <span className="sr-only">Wishlist</span>
-                            <FaHeart className="text-rose-500" />
+                            {info.isFavourite ?  <FaHeart className="text-rose-500" /> : <FaHeart className="text-gray-500" />}
                         </button>
 
                         <img

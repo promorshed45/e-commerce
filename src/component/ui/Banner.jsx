@@ -23,15 +23,16 @@ const Banner = () => {
             <Swiper
             modules={[Navigation, Pagination, Autoplay]}
             navigation
-            autoplay={{ delay: 5000 }}
+            autoplay={{ delay: 3000 }}
             pagination={{ clickable: true }}
             scrollbar={{ draggable: true }}
             slidesPerView={1}
             onSlideChange={() => console.log('slide change')}
             onSwiper={(swiper) => console.log(swiper)}
-            style={{ height: '400px', borderRadius: '10px', objectFit: 'cover', }}
+            // style={{ height: '400px', borderRadius: '10px' }}
+            className='mySwiper h-full object-contain rounded-xl'
         >
-            <SwiperSlide> <img className='object-cover' src={bannerOne} /> </SwiperSlide>
+            <SwiperSlide> <img className='w-full' src={bannerOne} /> </SwiperSlide>
             <SwiperSlide> <img src={bannerTwo} /> </SwiperSlide>
             <SwiperSlide> <img src={bannerThree} /> </SwiperSlide>
             <SwiperSlide> <img src={bannerFour} /> </SwiperSlide>

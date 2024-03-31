@@ -3,72 +3,84 @@
         "image": "https://i.ibb.co/6rCNyq8/apartment.jpg",
         "title": "Smartphone X",
         "category": "Electronics",
-        "price": 599.99
+        "price": 599.99,
+        "isFavourite": true
     },
     {
         "image": "https://i.ibb.co/2YNgy7F/master-bedroom-interior-design-bd.jpg",
         "title": "Men's Leather Jacket",
         "category": "Clothing",
-        "price": 149.99
+        "price": 149.99,
+        "isFavourite": false
     },
     {
         "image": "https://i.ibb.co/5jy9XQ3/1542613324-BR0-Lf.jpg",
         "title": "Kitchen Mixer",
         "category": "Home & Kitchen",
-        "price": 129.99
+        "price": 129.99,
+        "isFavourite": true
     },
     {
         "image": "https://i.ibb.co/Xj4753g/5.jpg",
         "title": "The Great Gatsby",
         "category": "Books",
-        "price": 12.99
+        "price": 12.99,
+        "isFavourite": false
     },
     {
         "image": "https://i.ibb.co/5jy9XQ3/1542613324-BR0-Lf.jpg",
         "title": "LEGO Star Wars Millennium Falcon",
         "category": "Toys & Games",
-        "price": 159.99
+        "price": 159.99,
+        "isFavourite": true
     },
     {
-        "image": "https://example.com/product6.jpg",
+        "image": "https://source.unsplash.com/150x150/?portrait?3",
         "title": "Outdoor Camping Tent",
         "category": "Sports & Outdoors",
-        "price": 199.99
+        "price": 199.99,
+        "isFavourite": false
     },
     {
-        "image": "https://example.com/product7.jpg",
+        "image": "https://source.unsplash.com/150x150/?portrait?3",
         "title": "Wireless Headphones",
         "category": "Electronics",
-        "price": 79.99
+        "price": 79.99,
+        "isFavourite": true
       },
       {
-        "image": "https://example.com/product8.jpg",
+        "image": "https://source.unsplash.com/150x150/?portrait?3",
         "title": "Women's Floral Dress",
         "category": "Clothing",
-        "price": 59.99
+        "price": 59.99,
+        "isFavourite": true
       },
       {
-        "image": "https://example.com/product9.jpg",
+        "image": "https://source.unsplash.com/150x150/?portrait?3",
         "title": "Stainless Steel Cookware Set",
         "category": "Home & Kitchen",
-        "price": 199.99
+        "price": 199.99,
+        "isFavourite": true
       },
       {
-        "image": "https://example.com/product10.jpg",
+        "image": "https://source.unsplash.com/150x150/?portrait?3",
         "title": "The Catcher in the Rye",
         "category": "Books",
-        "price": 9.99
+        "price": 9.99,
+        "isFavourite": true
       },
       {
-        "image": "https://example.com/product11.jpg",
+        "image": "https://source.unsplash.com/150x150/?portrait?3",
         "title": "Remote Control Car",
         "category": "Toys & Games",
-        "price": 49.99
+        "price": 49.99,
+        "isFavourite": true
       },
       {
-        "image": "https://example.com/product12.jpg",
+        "image": "https://source.unsplash.com/150x150/?portrait?3",
         "title": "Yoga Mat",
         "category": "Sports & Outdoors",
-        "price": 29.99
+        "price": 29.99,
+        "isFavourite": true
       }
 ]
