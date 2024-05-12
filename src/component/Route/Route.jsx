@@ -14,6 +14,8 @@ import Service from "../pages/Service";
 import User from "../ui/User";
 import Shop from '../../component/pages/Shop'
 import ProductDetails from "../ui/ProductDetails";
+import Register from "../pages/Register";
+import Login from "../pages/Login";
 
   const router = createBrowserRouter([
     {
@@ -49,6 +51,14 @@ import ProductDetails from "../ui/ProductDetails";
           path: "/productDetails",
           element: <ProductDetails/>
         },
+        {
+          path: "/login",
+          element: <Login/>
+        },
+        {
+          path: "/register",
+          element: <Register/>
+        }
 
       ]
     },
